@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lato';
+    font-size: 9pt;
+    margin: 0 auto;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    text-align: center;
+}
+
+h3 {
+    border-bottom: 1px solid black;
+}
+
+a {
+    color: #57A;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+p {
+    margin-top: 0.25em;
+    margin-bottom: 0.5em;
+}
+
+ul,
+ol,
+dl {
+    line-height: 1.25em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding-left: 1em;
+}
